@@ -1,0 +1,5 @@
+__pycache__/
+model/shadow_unet_256x256.pth
+shadowNet_training_256x256_688.ipynb
+venv/
+*.pyc
